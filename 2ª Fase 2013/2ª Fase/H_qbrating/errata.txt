@@ -1,0 +1,13 @@
+No enunciado do problema consta:
+
+Saída:
+88.4
+81.7
+86.8
+
+Segundo o código desenvolvido:
+
+Saída:
+88.3
+81.7
+86.9

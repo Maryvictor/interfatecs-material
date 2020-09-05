@@ -1,0 +1,6 @@
+Algumas das entradas de vizinhanca.in (na coluna C e linha L) possuem um espaço a mais, logo após L.
+
+Isso gera uma leitura incorreta pelo scanf() e como isso não foi alertado no enunciado, provavelmente
+é um problema na construção da entrada.
+
+Resolvendo esse problema, a saída confere com o que era esperado em vizinhanca.out.

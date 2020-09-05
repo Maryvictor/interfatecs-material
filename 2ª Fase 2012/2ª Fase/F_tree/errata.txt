@@ -1,0 +1,13 @@
+Saída correta de acordo com a entrada proposta:
+
+Caso 1:
+3 8 2
+
+Caso 2:
+2 4 0
+
+Caso 3:
+3 4 3
+
+Caso 4:
+3 7 1
